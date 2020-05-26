@@ -1,6 +1,6 @@
 # MapSaver
 
-MapSaver is a very hacky and annoying tool which can, but probably won't, help you "download"very large high resolution sattelite/map imagery.
+MapSaver is a very hacky and annoying tool which can, but probably won't, help you "download" very large high resolution sattelite/map imagery.
 
 ## Setup
 
