@@ -61,9 +61,9 @@ SwitchPaste() {
 
 	SetKeyDelay 30,50 ; Sets timer between key presses so Alt+Tab works
 
-	Loop, 2 { ; 2 tall
+	Loop, 1 { ; 1 tall
 
-		Loop, 17 { ; 17 wide
+		Loop, 1 { ; 1 wide
 			Right()
 			SwitchPaste()
 			Switch()
@@ -78,7 +78,7 @@ SwitchPaste() {
 			Sleep, 2000
 
 
-		Loop, 17 { ; 17 wide
+		Loop, 1 { ; 1 wide
 			Left()
 			SwitchPaste()
 			Switch()
