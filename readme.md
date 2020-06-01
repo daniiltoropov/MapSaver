@@ -16,6 +16,3 @@ MapSaver is a very hacky and annoying tool which can, but probably won't, help y
 ### 3. Compile
   * After copying every screen, MapSaver will stop by itself. 
   * You can now switch back to you graphics editor, and position the images together, and export them.
-## Problems
-  * On lower end computers, graphics editor can crash if a lot of screenshots are saved.
-  * To change the size, you need to edit the .ahk script, and recompile it into .exe
